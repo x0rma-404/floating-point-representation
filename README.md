@@ -18,7 +18,7 @@ This Android app lets you **see decimal numbers as floating-point binary** (IEEE
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/username/FloatingPointFunApp.git
+   git clone https://github.com/x0rma-404/floating-point-representation.git
    ```
 2. Open in **Android Studio**
 3. Sync Gradle & run on an emulator or real Android device 📱
